@@ -1,1 +1,228 @@
+# Terms of Service
+
+**Spy Chess: Genesis**
+**Last updated: May 25, 2026**
+
+Please read these Terms of Service ("Terms") carefully before using the Spy Chess: Genesis mobile application ("App") operated by Marcus Nash ("we", "us", or "our"). By downloading, installing, or using the App you agree to be bound by these Terms. If you do not agree, do not use the App.
+
+---
+
+## 1. Eligibility
+
+You must be at least **13 years old** (or the applicable minimum age in your jurisdiction) to use the App. By using the App you represent and warrant that you meet this requirement. If you are between 13 and 18 years old (or the applicable age of majority in your jurisdiction), you must have permission from a parent or guardian who agrees to these Terms on your behalf.
+
+We do not knowingly allow children under the age of 13 to create accounts. If we become aware that a user is under 13, we will terminate the account and delete associated data.
+
+---
+
+## 2. Account Registration
+
+### 2.1 Creating an Account
+You may use the App as a guest without registering. To access multiplayer features, ratings, and saved game history you must create an account using email/password, Google Sign-In, or Apple Sign-In.
+
+### 2.2 Account Security
+You are responsible for maintaining the confidentiality of your login credentials and for all activity that occurs under your account. You must notify us immediately at three.mountain.peaks.development@gmail.com if you suspect unauthorised access to your account. We are not liable for any loss resulting from unauthorised use of your account.
+
+### 2.3 Account Information
+You agree to provide accurate, current, and complete information when registering and to keep that information up to date. You may not impersonate another person or use a username that is offensive, misleading, or infringes a third party's rights.
+
+### 2.4 One Account per Person
+You may only maintain one active account. Creating multiple accounts to circumvent suspensions, game limits, or other restrictions is prohibited.
+
+### 2.5 Account Inactivity
+We reserve the right to suspend or delete accounts that have been inactive for **12 months or longer**, after providing reasonable notice where possible. Inactive accounts consume resources and may be recycled. If your account is deleted for inactivity, you will need to create a new account; prior game history, ratings, and subscriptions will not be restored.
+
+---
+
+## 3. Acceptable Use
+
+You agree to use the App only for lawful purposes and in accordance with these Terms. You must **not**:
+
+- Cheat, exploit bugs, use third-party software, or manipulate game outcomes.
+- Use automated bots, scripts, or other programs to interact with the App.
+- Harass, threaten, bully, or abuse other players in any form.
+- Send spam, unsolicited advertisements, or phishing links through the in-app chat.
+- Attempt to gain unauthorised access to our servers, databases, or other users' accounts.
+- Reverse-engineer, decompile, or disassemble any part of the App.
+- Use the App to distribute malware or any harmful software.
+- Collect or harvest other users' personal information without their consent.
+- Engage in any activity that disrupts, degrades, or interferes with the App or its servers.
+- Use the App in any jurisdiction where it is prohibited by applicable law.
+- Violate any applicable local, national, or international law or regulation.
+
+We reserve the right to investigate suspected violations and to take appropriate action, including suspending or terminating accounts without refund.
+
+---
+
+## 4. Fair Play
+
+Spy Chess: Genesis is a skill-based game. You agree to play honestly and in the spirit of fair competition. Prohibited conduct includes but is not limited to:
+
+- Using chess engines or AI assistance during rated games.
+- Deliberately abandoning games to avoid a loss (sandbagging).
+- Coordinating with opponents to manipulate results.
+- Exploiting or sharing knowledge of game-breaking bugs instead of reporting them.
+
+Ratings are a shared resource. Abusing the rating system harms the community and may result in rating adjustment or account termination.
+
+---
+
+## 5. Subscriptions and In-App Purchases
+
+### 5.1 Spy Chess Pro
+The App offers a "Spy Chess Pro" subscription that removes advertisements and removes the daily multiplayer game limit. Subscriptions are available on a **monthly** or **annual** basis and are managed through the platform's native payment system (Apple App Store or Google Play) via RevenueCat.
+
+### 5.2 Billing and Renewal
+Subscriptions auto-renew at the end of each billing period unless cancelled at least 24 hours before the renewal date. Your payment method will be charged through your App Store or Google Play account. You can manage and cancel your subscription at any time in your platform account settings.
+
+### 5.3 Refunds
+All purchases are subject to the refund policies of the Apple App Store or Google Play. We do not process refunds directly. If you believe you are entitled to a refund, please contact Apple or Google support. Account termination for violations of these Terms does not entitle you to a refund.
+
+### 5.4 Price Changes
+We may change subscription prices at any time. Price changes will take effect at your next renewal date and will be communicated in advance through your platform account.
+
+### 5.5 Free User Limits
+Free (non-Pro) authenticated users are limited to **10 multiplayer games per day**. Guest users are subject to the same limit. These limits are subject to change at our discretion.
+
+---
+
+## 6. User-Generated Content
+
+### 6.1 Content You Submit
+The App allows you to submit content including your display name, profile picture, and chat messages ("User Content"). You retain ownership of your User Content but grant us a worldwide, royalty-free, non-exclusive licence to use, store, display, and distribute your User Content solely as necessary to operate and improve the App.
+
+### 6.2 Content Standards
+Your User Content must not be illegal, obscene, defamatory, threatening, hateful, discriminatory, or infringing of any third party's rights. We may remove any User Content that violates these standards without notice and without liability to you.
+
+### 6.3 No Confidentiality
+Do not submit User Content that you consider confidential. Chat messages are stored in Firebase Firestore and are visible to the other participant in the conversation.
+
+---
+
+## 7. Intellectual Property
+
+All content in the App — including graphics, game mechanics, code, trademarks, and the Spy Chess: Genesis name and logo — is owned by us or licensed to us and is protected by applicable intellectual property laws. These Terms do not grant you any right to use our intellectual property other than as strictly necessary to use the App as intended.
+
+If you believe any content in the App infringes your intellectual property rights, please contact us at three.mountain.peaks.development@gmail.com with "IP Claim" in the subject line.
+
+---
+
+## 8. Advertising
+
+The App displays advertisements to users who have not subscribed to Spy Chess Pro. Ads are served by Google Mobile Ads. By using the App without a Pro subscription you consent to the display of ads. You can opt out of personalised advertising through the consent prompt in the App or your device's advertising settings.
+
+---
+
+## 9. Privacy
+
+Your use of the App is also governed by our [Privacy Policy](PRIVACY_POLICY.md), which is incorporated into these Terms by reference. Please review it to understand our data practices.
+
+---
+
+## 10. Third-Party Services and App Stores
+
+### 10.1 Third-Party Services
+The App integrates third-party services including Google Firebase, Google Mobile Ads, RevenueCat, and the Stockfish chess engine. These services are governed by their own terms and privacy policies. We are not responsible for the acts or omissions of third-party services.
+
+### 10.2 Apple App Store
+If you downloaded the App from the Apple App Store, you acknowledge that:
+- These Terms are between you and us only, not with Apple Inc.
+- Apple has no obligation to provide maintenance or support for the App.
+- Apple is not responsible for any claims by you or a third party relating to the App or your possession or use of it.
+- In the event of any third-party claim that the App infringes intellectual property rights, Apple is not responsible for investigation, defence, settlement, or discharge of that claim.
+- Apple and its subsidiaries are **third-party beneficiaries** of these Terms and may enforce them against you.
+- Your use of the App must comply with the [Apple App Store Terms of Service](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
+
+### 10.3 Google Play
+If you downloaded the App from Google Play, your use of the App must also comply with the [Google Play Terms of Service](https://play.google.com/intl/en_us/about/play-terms/).
+
+---
+
+## 11. Export Controls
+
+You represent and warrant that (a) you are not located in a country subject to a UK, EU, or US government embargo or designated as a "terrorist-supporting" country, and (b) you are not listed on any UK, EU, or US government list of prohibited or restricted parties. You agree not to use or export the App in violation of applicable export control laws and regulations.
+
+---
+
+## 12. Termination
+
+### 12.1 Termination by You
+You may stop using the App at any time. To delete your account and associated data, use the account deletion feature within the App or contact us at three.mountain.peaks.development@gmail.com.
+
+### 12.2 Termination by Us
+We may suspend or terminate your account at any time, with or without notice, if we reasonably believe you have violated these Terms or if required by law. Upon termination, your right to use the App ceases immediately. Termination for cause does not entitle you to a refund of any subscription fees.
+
+### 12.3 Effect of Termination
+Sections 6.1, 7, 13, 14, 15, 16, 17, 18, 19, and 20 survive termination.
+
+---
+
+## 13. Indemnification
+
+You agree to indemnify, defend, and hold harmless Marcus Nash and his affiliates, officers, agents, and successors from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in connection with: (a) your use of the App; (b) your User Content; (c) your violation of these Terms; or (d) your violation of any rights of another person or entity.
+
+---
+
+## 14. Force Majeure
+
+We are not liable for any failure or delay in performance arising out of causes beyond our reasonable control, including but not limited to acts of God, natural disasters, war, terrorism, riots, embargoes, government actions, fire, floods, strikes, power outages, internet or telecommunications failures, or third-party service outages (including Firebase or Google services).
+
+---
+
+## 15. Disclaimer of Warranties
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. NO ADVICE OR INFORMATION OBTAINED FROM US OR THROUGH THE APP CREATES ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.
+
+---
+
+## 16. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, GOODWILL, OR REPUTATION, ARISING FROM OR RELATED TO YOUR USE OF (OR INABILITY TO USE) THE APP, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+OUR TOTAL CUMULATIVE LIABILITY TO YOU FOR ALL CLAIMS ARISING FROM THESE TERMS OR YOUR USE OF THE APP SHALL NOT EXCEED THE GREATER OF: (A) THE AMOUNT YOU PAID US IN THE TWELVE MONTHS PRECEDING THE CLAIM, OR (B) £10 (GBP).
+
+Some jurisdictions do not allow the exclusion or limitation of certain warranties or liabilities, so some of the above limitations may not apply to you.
+
+---
+
+## 17. Governing Law and Dispute Resolution
+
+These Terms are governed by the laws of **England and Wales**, without regard to conflict-of-law principles. Any disputes arising from these Terms or your use of the App shall be subject to the exclusive jurisdiction of the courts of England and Wales, except where mandatory consumer protection laws in your jurisdiction confer jurisdiction on local courts.
+
+Nothing in this section limits your rights as a consumer under the laws of your jurisdiction.
+
+---
+
+## 18. Severability
+
+If any provision of these Terms is found to be invalid, illegal, or unenforceable by a court of competent jurisdiction, that provision will be limited or eliminated to the minimum extent necessary so that the remaining Terms continue in full force and effect.
+
+---
+
+## 19. Waiver and Entire Agreement
+
+Our failure to enforce any right or provision of these Terms is not a waiver of that right or provision. These Terms, together with the [Privacy Policy](PRIVACY_POLICY.md), constitute the entire agreement between you and us regarding the App and supersede all prior or contemporaneous agreements, representations, and understandings.
+
+---
+
+## 20. Assignment
+
+You may not assign or transfer these Terms or any rights or obligations under them without our prior written consent. We may freely assign these Terms, including in connection with a merger, acquisition, or sale of assets, without notice to you. Any purported assignment in violation of this section is void.
+
+---
+
+## 21. Changes to These Terms
+
+We may update these Terms from time to time. When we do, we will update the "Last updated" date at the top of this document. For significant changes, we will provide notice through the App or via email. Your continued use of the App after changes become effective constitutes acceptance of the revised Terms. If you do not agree to revised Terms, you must stop using the App.
+
+---
+
+## 22. Contact Us
+
+If you have any questions about these Terms, please contact us:
+
+**Email:** three.mountain.peaks.development@gmail.com
+**App:** Spy Chess: Genesis
+**Website:** https://thespychess.com
+**Package ID:** com.mnash.spy_chess
 
